@@ -1,9 +1,7 @@
-# Public Interest Tech Blog
-## Andrew Lovett-Barron
+# Public Interest Tech Blog template
 
 To install, fork on github and modify the `/_data/bio.yml` and the `_config.yml` file.
 Use the files in `_posts` to get started in filling in your own content, and 
-
 
 Demo: [https://pit.andrewlb.com](https://pit.andrewlb.com)
 
@@ -24,5 +22,5 @@ If the "other fellows" collection isn't being called, open your `.gitmodules` fi
 
 
 ### About
-Built by Andrew Lovett-Barron
+Built by [Andrew Lovett-Barron](https://github.com/readywater) for his [fellowship blog](https://pit.andrewlb.com).
 Heavily modified with from Vyaasa as a starting point theme.

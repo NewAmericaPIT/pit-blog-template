@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Public Interest Tech"
-permalink: public-interest-tech
-author: Andrew Lovett-Barron
-description: Reflections and Gratitude for the Public Interest Tech fellowship
+title: "Demo Post"
+permalink: sample
+author: Author Name
+description: Here is the description
 comments: true
-tags: [social venture design, newamerica, research]
+tags: [tags]
 image: '/images/posts/buildplane.jpg'
 ---
 
-To write
+Posts go here
