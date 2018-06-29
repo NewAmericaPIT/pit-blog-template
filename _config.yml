@@ -1,12 +1,12 @@
 # Site settings
-title: "Social Ventures"
+title: "Public interest Tech blog template"
 title-font-size: '4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
 
-email: alb@andrewlb.com
+email: pit@newamerica.com
 description: > 
-  Writing from 2017/2018 New America Public Interest Tech fellowship
+  A blog template for those in the Public Interest Tech program
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pit.andrewlb.com"
+url: "https://newamericaPIT.github.io/pit-blog-template"
 
 permalink: :url/
 
