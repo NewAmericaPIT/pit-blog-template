@@ -5,8 +5,8 @@ title-font-size: '4em' # a provision to adjust the size of your title. If it is 
 email: pit@newamerica.com
 description: > 
   A blog template for those in the Public Interest Tech program
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://newamericaPIT.github.io/pit-blog-template"
+baseurl: "/pit-blog-template" # the subpath of your site, e.g. /blog
+url: "https://newamericaPIT.github.io"
 
 permalink: :url/
 
